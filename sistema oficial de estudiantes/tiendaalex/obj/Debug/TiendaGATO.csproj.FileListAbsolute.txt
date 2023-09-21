@@ -1,0 +1,12 @@
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\bin\Debug\TiendaGATO.exe.config
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\bin\Debug\TiendaGATO.exe
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\bin\Debug\TiendaGATO.pdb
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.Form1.resources
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.Form2.resources
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.exe
+C:\Users\Alumno\Desktop\Farid\TiendaGATO\obj\Debug\TiendaGATO.pdb

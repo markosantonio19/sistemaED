@@ -10,3 +10,6 @@ C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sist
 C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.csproj.CoreCompileInputs.cache
 C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.exe
 C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.pdb
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema_de_alumnos.fmr_sumador.resources
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema_de_alumnos.frm_consultas.resources
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema_de_alumnos.Frm_menu.resources
