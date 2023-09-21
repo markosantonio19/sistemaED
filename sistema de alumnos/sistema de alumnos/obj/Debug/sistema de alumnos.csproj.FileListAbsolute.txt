@@ -1,0 +1,12 @@
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\bin\Debug\sistema de alumnos.exe.config
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\bin\Debug\sistema de alumnos.exe
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\bin\Debug\sistema de alumnos.pdb
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema_de_alumnos.Form1.resources
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema_de_alumnos.frm_login.resources
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema_de_alumnos.Properties.Resources.resources
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.exe
+C:\Users\ALUMNO\Desktop\smt\sistema de alumnos\sistema de alumnos\obj\Debug\sistema de alumnos.pdb

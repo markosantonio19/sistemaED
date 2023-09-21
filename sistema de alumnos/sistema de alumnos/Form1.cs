@@ -30,6 +30,9 @@ namespace sistema_de_alumnos
             
                 timer1.Stop();
                 this.Hide();
+
+                frm_login lg = new frm_login();
+                lg.Show();
             }
 
         }
