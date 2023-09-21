@@ -16,5 +16,23 @@ namespace sistema_de_alumnos
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Cls_conexxion conexxion = new Cls_conexxion();  
+            if (conexxion.Validar(textBox1.Text, textBox2.Text) == true) 
+            {
+                this.Hide();
+                Frm_menu principal = new Frm_menu();    
+                principal.Show();
+            }
+            else
+            {
+                MessageBox.Show("usuario o contraseñas  incorrectos", "aviso", MessageBoxButtons.OK, MessageBoxIcon.Error); 
+                textBox1.Clear();
+                textBox2.Clear();
+                textBox1.Focus();
+            }
+        }
     }
 }
