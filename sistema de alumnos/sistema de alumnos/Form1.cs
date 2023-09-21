@@ -16,5 +16,24 @@ namespace sistema_de_alumnos
         {
             InitializeComponent();
         }
+        int N = 0;
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            N++;
+            label1.Text="cargando"+ N.ToString() + "%" ;
+            progressBar1.Value = N;
+            if (N == 100) {
+            
+                timer1.Stop();
+                this.Hide();
+            }
+
+        }
+
+        
     }
 }
