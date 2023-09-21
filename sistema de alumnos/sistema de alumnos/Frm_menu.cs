@@ -16,5 +16,16 @@ namespace sistema_de_alumnos
         {
             InitializeComponent();
         }
+
+        private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void consultaDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frm_consultas consultas = new frm_consultas();
+            consultas.Show();
+        }
     }
 }
