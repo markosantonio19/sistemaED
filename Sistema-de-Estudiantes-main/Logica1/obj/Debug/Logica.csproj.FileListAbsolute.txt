@@ -1,0 +1,5 @@
+C:\Users\5671682\Desktop\ASP.NET\Estudiantes\Logica1\bin\Debug\Logica1.dll
+C:\Users\5671682\Desktop\ASP.NET\Estudiantes\Logica1\bin\Debug\Logica1.pdb
+C:\Users\5671682\Desktop\ASP.NET\Estudiantes\Logica1\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\5671682\Desktop\ASP.NET\Estudiantes\Logica1\obj\Debug\Logica1.dll
+C:\Users\5671682\Desktop\ASP.NET\Estudiantes\Logica1\obj\Debug\Logica1.pdb
